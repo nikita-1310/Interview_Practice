@@ -20,3 +20,15 @@ for(let i=0; i<arr.length-1;i++){
 }
 console.log(dup_arr)
 
+<h2>Q2. How to declare object in javascript ?</h2>
+
+let car = {
+
+    name:"Ford",
+    
+    model:"Explorer",
+    
+    year:2000,
+
+}
+console.log(car)
